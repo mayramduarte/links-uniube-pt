@@ -1,6 +1,6 @@
 # links-uniube-pt
 
-<h1>Links - Curso de Tecnologia em Análise e Desenvlvimento de Sistemas - Uniube</h1>
+<h1>Links - Curso de Tecnologia em Análise e Desenvolvimento de Sistemas - Uniube</h1>
 
 <h2>Conteúdo</h2>
 
